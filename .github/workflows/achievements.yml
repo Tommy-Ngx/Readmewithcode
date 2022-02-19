@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: ""
           filename: metrics-achievements.svg
-          config_timezone: Asia/Seoul
+          config_timezone: Asia/Sydney
           plugin_achievements: yes
 #           plugin_achievements_display: compact
           plugin_achievements_limit: 6
