@@ -16,11 +16,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Tommy-Ngx
+          user: jeongwhanchoi
           template: classic
           base: ""
           filename: metrics-achievements.svg
-          config_timezone: Asia/Sydney
+          config_timezone: Asia/Seoul
           plugin_achievements: yes
 #           plugin_achievements_display: compact
           plugin_achievements_limit: 6
