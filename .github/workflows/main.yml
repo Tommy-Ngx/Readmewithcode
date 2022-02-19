@@ -19,4 +19,4 @@ jobs:
           user: jeongwhanchoi
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Seoul
+          config_timezone: Asia/Sydney
