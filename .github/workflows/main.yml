@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: tommy-ngx
+          user: jeongwhanchoi
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Sydney
+          config_timezone: Asia/Seoul
